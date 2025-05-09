@@ -15,7 +15,6 @@ Password is provided on HotCRP; Only one reviewer can use the testbed at-a-time.
 
 # Reproducing the figures
 ## Figure 5: (~30min)
-![Figure 5](fig5.pdf)
 
 ```
 cd /src/artifact

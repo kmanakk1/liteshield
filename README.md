@@ -41,7 +41,7 @@ It should produce the figures for 6a: fig6a-udp.pdf
 
 On our testbed, each of (a and b) take about ~30min to run
 
-## Figure 7: (~40min)
+## Figure 7: (~1h30min)
 ```
 cd /src/artifact
 sudo ./scripts/ae/figure_7_fio.sh

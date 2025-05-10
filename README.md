@@ -49,7 +49,7 @@ sudo ./scripts/ae/figure_7_fio.sh
 
 This runs the FIO benchmark on LITESHIELD + baselines
 
-resulting figures are: `output/figures/fig7-fiodirect.pdf`, `output/figures/fig7-fiocached.pdf`
+resulting figures are: `output/figures/fig7a-fiodirect.pdf`, `output/figures/fig7b-fiocached.pdf`
 
 ## Figure 8: (~40min)
 ```
